@@ -33,25 +33,32 @@ Yapay zeka kendi içerisinde bir çok bölüme ayrılabilir ve bunların kategor
     - Cognitive Vision
 
 3. Matehematics
-    1. statistics
-    2. Geometry
-    3. Optimization
+    - statistics
+    - Geometry
+    - Optimization
 
 
 4. Neurobiology
-    1. Biological Vision
+    - Biological Vision
 
 5. Imaging
-    1. Smart Cameras
+    - Smart Cameras
 
 
 ## Artifical Intelligence Diagram
 
 1. ML 
-    1. NLP 
-    2. Expert 
-    3. Systems 
-    4. Vision
-    5. Speech 
-    6. Planning
-    7. Robotics
+
+    - NLP 
+    - Expert 
+    - Systems 
+    - Vision
+    - Speech 
+    - Planning
+    - Robotics
+
+
+#### Günün Ödevleri
+
+1. AI nedir ? (araştır)
+2. Slaytı okuma
