@@ -27,10 +27,10 @@ cats de kaynaklar kısmında mevcut ayrıca eklenecek.
 Yapay zeka kendi içerisinde bir çok bölüme ayrılabilir ve bunların kategorileri `Computer Vision`, `Machine Vision`, `Image Processing` olarak devam etmektedir.
 
 1. Articial Intelligence
-    1. Computer Intelligence
+    - Computer Intelligence
 
 2. Machine Learning 
-    1. Cognitive Vision
+    - Cognitive Vision
 
 3. Matehematics
     1. statistics
