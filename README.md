@@ -1,3 +1,5 @@
+GITHUB: https://github.com/ardayasar/Yapay-zeka-101
+
 Temel MD Komutları -> https://guides.github.com/features/mastering-markdown/
 
 # Yapay Zeka
@@ -7,7 +9,6 @@ Ders Öğretmeni:
 
 ## Kitaplar
 --------
-cats de kaynaklar kısmında mevcut ayrıca eklenecek.
 
 - [ ] Korb, K. ve Nicholson A.E. (2011) Bayesian Artficial Intelligence, Second Edition, CRC press
 
@@ -59,6 +60,6 @@ Yapay zeka kendi içerisinde bir çok bölüme ayrılabilir ve bunların kategor
 
 
 #### Günün Ödevleri
-
+-------------------
 1. AI nedir ? (araştır)
 2. Slaytı okuma
